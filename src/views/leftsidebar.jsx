@@ -115,8 +115,8 @@ const Leftbar = () => {
                 </div>
             </div>
             <div className={` absolute float-left md:w-[130px] w-[280px] lg:w-[160px] xl:w-[200px] mx-auto px-auto flex justify-evenly bottom-0  mt-[100%] mb-[10px] mlogo `}>
-                <a href='https://github.com/Prashant0664/snake-and-ladder' target='_blank'><AiOutlineGithub className={`text-[26px] hover:scale-110 kknkl`} /></a>
-                <a href='https://www.linkedin.com/in/prashant-693591228' target='_blank'><AiFillLinkedin className={`text-[26px] hover:scale-110 kknkl`} /></a>
+                <a href='https://github.com/Dhruv041107' target='_blank'><AiOutlineGithub className={`text-[26px] hover:scale-110 kknkl`} /></a>
+                <a href='https://www.linkedin.com/in/dhruv-singla-b25358372' target='_blank'><AiFillLinkedin className={`text-[26px] hover:scale-110 kknkl`} /></a>
             </div>
             <div className='bg-pink-400 text-red-400'>
                 <Sidebar1 />
