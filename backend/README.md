@@ -22,7 +22,7 @@ This is the backend for the snake and ladder game application developed using No
 1. Clone the root repository:
 
    ```bash
-   git clone https://github.com/prashant0664/snake-and-ladder.git
+   git clone https://github.com/Dhruv041107/snake-and-ladder.git
 
 2. Navigate to the project directory:
 
