@@ -24,8 +24,8 @@ const Login = () => {
 
       <div className='footer1 relative top-[95vh]'>
         <a href="https://github.com/Dhruv041107">
-          @2021-2025 4Snake and Ladder Developed by
-          Prashant
+          @2024-2025 4Snake and Ladder Developed by
+          Dhruv Singla
         </a>
       </div>
     </>
