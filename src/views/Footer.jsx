@@ -6,7 +6,7 @@ const Footer = () => {
       {/* <hr className='centre2 px-auto mx-20 text-slate-700 opacity-20 bg-black h-1 mt-[10px]'/> */}
         <a href="https://www.github.com/prashant0664">
         @2021-2025 4Snake and Ladder APP Developed by 
-          Prashant
+          Dhruv Singla
           </a>
       </footer>
   )
