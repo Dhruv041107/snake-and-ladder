@@ -57,12 +57,6 @@ Define the required environment variables in the file, such as MongoDB connectio
 ## `Contributing`
 ⚡ Contributions to the project are welcome! If you find any bugs or want to add new features, please open an issue or submit a pull request.
 
-## Contact
-For any inquiries or feedback, please contact:
 
-Prashant <br/>
-Email: `prashant201103@gmail.com` <br/>
-
-DEVELOPED AND CREATED BY PRASHANT [Profile](https://www.github.com/prashant0664)
 
 
