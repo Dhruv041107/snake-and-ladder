@@ -28,7 +28,7 @@ This is a Snake and Ladder Game website developed using Node.js, React.js, Expre
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prashant0664/snake-and-ladder.git
+   git clone https://github.com/Dhruv041107/snake-and-ladder.git
 
 2. Navigate to the project directory:
 
