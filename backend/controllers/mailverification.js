@@ -76,7 +76,7 @@ const report = async (req, res) => {
             theme: "default",
             product: {
                 name: "Email Verification",
-                link: "https://github.com/Prashant0664"
+                link: "https://github.com/Dhruv041107"
             }
         })
         let response = {
